@@ -31,11 +31,7 @@ label start:
 
     a "Take a seat!"
 
-    a "You are such as beautiful girl..."
-    a "guy?"
-    a "Edritch abomination?"
-
-    a "Whatever"
+    a "Nevermind..."
 
     # This ends the game.
 
